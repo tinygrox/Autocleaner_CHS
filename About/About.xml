@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Autocleaner 简中翻译(1.4)</name>
+  <author>tinygrox</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>tinygrox.CHS.autocleanerforked</packageId>
+  <loadAfter>
+    <li>automatic.autocleaner</li>
+  </loadAfter>
+  <description>Autocleaner - Forked的简中翻译，适用于1.4版本。</description>
+</ModMetaData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: clean filth -->
+  <AutocleanerCleanFilth.label>清理污物</AutocleanerCleanFilth.label>
+  <!-- EN: cleaning -->
+  <AutocleanerCleanFilth.gerund>清理</AutocleanerCleanFilth.gerund>
+  <!-- EN: clean -->
+  <AutocleanerCleanFilth.verb>清理</AutocleanerCleanFilth.verb>
+  
+  <!-- EN: repair autocleaner -->
+  <AutocleanerRepairWorkGiver.label>修理扫地机器人</AutocleanerRepairWorkGiver.label>
+  <!-- EN: repairing -->
+  <AutocleanerRepairWorkGiver.gerund>修理</AutocleanerRepairWorkGiver.gerund>
+  <!-- EN: repair -->
+  <AutocleanerRepairWorkGiver.verb>修理</AutocleanerRepairWorkGiver.verb>
+  
+</LanguageData>

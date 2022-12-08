@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AutocleanerCleanFilth.label>清理污物</AutocleanerCleanFilth.label>
+  <AutocleanerCleanFilth.verb>清理</AutocleanerCleanFilth.verb>
+  <AutocleanerCleanFilth.gerund>清理</AutocleanerCleanFilth.gerund>
+
+  <AutocleanerRepairWorkGiver.label>修理扫地机器人</AutocleanerRepairWorkGiver.label>
+  <AutocleanerRepairWorkGiver.verb>修理</AutocleanerRepairWorkGiver.verb>
+  <AutocleanerRepairWorkGiver.gerund>修理</AutocleanerRepairWorkGiver.gerund>
+
+
+</LanguageData>

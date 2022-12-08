@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Autocleaner -->
+  <AutocleanerTitle>扫地机器人</AutocleanerTitle>
+  
+  <!-- EN: Activate -->
+  <AutocleanerActivate>激活</AutocleanerActivate>
+  <!-- EN: Start up the autocleaner and make it automatically clean areas that have power. -->
+  <AutocleanerActivateDesc>激活扫地机器人，使其自动清洁由电力供应的区域.</AutocleanerActivateDesc>
+  <!-- EN: Deactivate -->
+  <AutocleanerDeactivate>停用</AutocleanerDeactivate>
+  <!-- EN: Stop the autocleaner and turn it into a haulable item. -->
+  <AutocleanerDeactivateDesc>关闭扫地机器人并将其变成可搬运物品.</AutocleanerDeactivateDesc>
+  
+  <!-- EN: Pause -->
+  <AutocleanerPause>暂停</AutocleanerPause>
+  <!-- EN: Halt cleaning and stop in place. -->
+  <AutocleanerPauseDesc>停止清洁工作并停在原地.</AutocleanerPauseDesc>
+  <!-- EN: Resume -->
+  <AutocleanerResume>继续</AutocleanerResume>
+  <!-- EN: Resume cleaning. -->
+  <AutocleanerResumeDesc>继续进行清洁工作.</AutocleanerResumeDesc>
+  
+  <!-- EN: Charge:  -->
+  <AutocleanerCharge>电量: </AutocleanerCharge>
+
+  <!-- EN: not stationary -->
+  <AutocleanerNotStationary>非静止</AutocleanerNotStationary>
+  
+  <!-- EN: Low quality pathing -->
+  <AutocleanerLQPathingName>低质量寻路</AutocleanerLQPathingName>
+  <!-- EN: Will require less processing power to find charging spot, but also produce worse results: autocleaner will choose to charge at location that is far away from where it is. -->
+  <AutocleanerLQPathingDesc>将需要较少的处理能力来寻找充电点，但也会产生更糟的结果：扫地机器人将可能选择在远离其当前位置的地方充电。</AutocleanerLQPathingDesc>
+
+  <!-- EN: Disable area assignment -->
+  <AutocleanerDisableScheduleName>禁用区域指定</AutocleanerDisableScheduleName>
+  <!-- EN: Prevents autocleaners from appearing in "Schedule" tab, for mod compatibility. -->
+  <AutocleanerDisableScheduleDesc>防止扫地机器人出现在“管制”选项卡中，提升 mod 兼容性。</AutocleanerDisableScheduleDesc>
+</LanguageData>

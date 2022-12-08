@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Autocleaner.label>自动清洁器</Autocleaner.label>
+  <Autocleaner.corePart.customLabel>外壳</Autocleaner.corePart.customLabel>
+  <Autocleaner.corePart.parts.0.customLabel>左前轮</Autocleaner.corePart.parts.0.customLabel>
+  <Autocleaner.corePart.parts.1.customLabel>右前轮</Autocleaner.corePart.parts.1.customLabel>
+  <Autocleaner.corePart.parts.2.customLabel>左后轮</Autocleaner.corePart.parts.2.customLabel>
+  <Autocleaner.corePart.parts.3.customLabel>右后轮</Autocleaner.corePart.parts.3.customLabel>
+  <Autocleaner.corePart.parts.4.customLabel>计算核心</Autocleaner.corePart.parts.4.customLabel>
+
+
+</LanguageData>

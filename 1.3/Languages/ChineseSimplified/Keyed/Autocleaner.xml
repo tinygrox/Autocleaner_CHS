@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AutocleanerTitle>扫地机器人</AutocleanerTitle>
+
+  <AutocleanerActivate>激活</AutocleanerActivate>
+  <AutocleanerActivateDesc>激活扫地机器人，使其自动清洁由电力供应的区域.</AutocleanerActivateDesc>
+  <AutocleanerDeactivate>停用</AutocleanerDeactivate>
+  <AutocleanerDeactivateDesc>关闭扫地机器人并将其变成可搬运物品.</AutocleanerDeactivateDesc>
+
+  <AutocleanerPause>暂停</AutocleanerPause>
+  <AutocleanerPauseDesc>停止清洁工作并停在原地.</AutocleanerPauseDesc>
+  <AutocleanerResume>继续</AutocleanerResume>
+  <AutocleanerResumeDesc>继续进行清洁工作.</AutocleanerResumeDesc>
+
+  <AutocleanerCharge>电量: </AutocleanerCharge>
+
+  <AutocleanerNotStationary>非静止</AutocleanerNotStationary>
+
+  <AutocleanerLQPathingName>低质量寻路</AutocleanerLQPathingName>
+  <AutocleanerLQPathingDesc>将需要较少的处理能力来寻找充电点，但也会产生更糟的结果：扫地机器人将可能选择在远离其当前位置的地方充电。</AutocleanerLQPathingDesc>
+
+</LanguageData>

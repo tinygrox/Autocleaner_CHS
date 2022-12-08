@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AutocleanerClean.reportString>清理 TargetA.</AutocleanerClean.reportString>
+  <AutocleanerGoto.reportString>准备待机.</AutocleanerGoto.reportString>
+  <AutocleanerCharge.reportString>充电中.</AutocleanerCharge.reportString>
+  <AutocleanerWaitForRepair.reportString>等待维修.</AutocleanerWaitForRepair.reportString>
+  <AutocleanerRepair.reportString>修理扫地机器人.</AutocleanerRepair.reportString>
+
+
+</LanguageData>

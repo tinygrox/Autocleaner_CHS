@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 制作扫地机器人 -->
+  <Make_AutocleanerItem.label>制作扫地机器人</Make_AutocleanerItem.label>
+  <!-- EN: 制作扫地机器人。 -->
+  <Make_AutocleanerItem.description>制作一个扫地机器人.</Make_AutocleanerItem.description>
+  <!-- EN: 正在制作扫地机器人。 -->
+  <Make_AutocleanerItem.jobString>制作扫地机器人中.</Make_AutocleanerItem.jobString>
+  
+</LanguageData>

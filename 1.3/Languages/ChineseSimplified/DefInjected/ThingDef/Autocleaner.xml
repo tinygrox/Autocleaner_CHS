@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Autocleaner.label>扫地机器人</Autocleaner.label>
+  <Autocleaner.description>自动化智能吸尘机器.</Autocleaner.description>
+  <Autocleaner.tools.0.label>外壳</Autocleaner.tools.0.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <Autocleaner_Corpse.label>扫地机器人残骸</Autocleaner_Corpse.label>
+  <Autocleaner_Corpse.description>扫地机器人的残骸</Autocleaner_Corpse.description>
+
+  <AutocleanerUnfinished.label>未制作完成的扫地机器人</AutocleanerUnfinished.label>
+  <AutocleanerUnfinished.description>一个未制作完成的扫地机器人.</AutocleanerUnfinished.description>
+
+  <AutocleanerItem.label>扫地机器人</AutocleanerItem.label>
+  <AutocleanerItem.description>自动化智能真空吸尘器. 无需人工干预即可自动对居住区进行清洁，并可从电网附近的任何地方充电。 如果损坏，在被修复前会一直停止清洁工作，修理需要零部件。</AutocleanerItem.description>
+
+
+</LanguageData>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: autocleaner -->
+  <Autocleaner.label>扫地机器人</Autocleaner.label>
+  <!-- EN: Autonomous robotic vacuum cleaner. -->
+  <Autocleaner.description>自动化智能吸尘机器.</Autocleaner.description>
+  <!-- EN: shell -->
+  <Autocleaner.tools.shell.label>外壳</Autocleaner.tools.shell.label>
+  
+  <!-- EN: autocleaner charger -->
+  <AutocleanerCharger.label>autocleaner charger</AutocleanerCharger.label>
+  <!-- EN: A device autocleaner uses to charge from power network. -->
+  <AutocleanerCharger.description>A device autocleaner uses to charge from power network.</AutocleanerCharger.description>
+  
+  <!-- EN: autocleaner -->
+  <AutocleanerItem.label>扫地机器人</AutocleanerItem.label>
+  <!-- EN: Autonomous robotic vacuum cleaner. Will clean home area without human intervention, and can charge from anywhere near a power grid. If damaged, stops cleaning until repaired, which requires components. -->
+  <AutocleanerItem.description>自动化智能真空吸尘器. 无需人工干预即可自动对居住区进行清洁，并可从电网附近的任何地方充电。 如果损坏，在被修复前会一直停止清洁工作，修理需要零部件。</AutocleanerItem.description>
+  
+  <!-- EN: unfinished autocleaner -->
+  <AutocleanerUnfinished.label>未制作完成的扫地机器人</AutocleanerUnfinished.label>
+  <!-- EN: An unfinished autocleaner. -->
+  <AutocleanerUnfinished.description>一个未制作完成的扫地机器人.</AutocleanerUnfinished.description>
+  
+</LanguageData>
